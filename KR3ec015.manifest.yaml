@@ -1,0 +1,359 @@
+canonical_identifier: bkk:krp/KR3ec015/v1
+canonical_location: https://kanripo.org/bkk/KR3ec015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 珍珠囊藥性賦
+  identifiers:
+    krp: KR3ec015
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec015.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ec015_001.yaml, hash: 'sha256:1e4454e0a43e39faa22cb06de712375596afd8cad5cd89114de76348b386e606'}
+  - {seq: 3, filename: KR3ec015_003.yaml, hash: 'sha256:64e43866b937773ba1d57c3e41580edf5e13e294b07ed0c0580d465fe3fec350'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ec015_001.markers.yaml, hash: 'sha256:457c7279334f915cc252a1f32765f0a04369520910080ab2579850052422b5cd'}
+  - {seq: 3, role: markers, filename: assets/KR3ec015_003.markers.yaml, hash: 'sha256:328ff86358e10b13615eb4087053e57b991537287ed88e82f7d35664c8472fa4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 8811
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 699
+  label: 寒性
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d3
+    span:
+    - body
+    - 699
+    - 1303
+  label: 熱性
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d4
+    span:
+    - body
+    - 1303
+    - 1862
+  label: 溫性
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d5
+    span:
+    - body
+    - 1862
+    - 2493
+  label: 平性
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d6
+    span:
+    - body
+    - 2493
+    - 2741
+  label: 諸品藥性陰陽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d7
+    span:
+    - body
+    - 2741
+    - 2924
+  label: 藥性升降浮沉補瀉法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d8
+    span:
+    - body
+    - 2924
+    - 3013
+  label: 諸臟五欲
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d9
+    span:
+    - body
+    - 3013
+    - 3073
+  label: 諸臟五苦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d10
+    span:
+    - body
+    - 3073
+    - 3099
+  label: 五嗅湊五臟例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d11
+    span:
+    - body
+    - 3099
+    - 3272
+  label: 五行五色五味五走五臟主禁例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d12
+    span:
+    - body
+    - 3272
+    - 3356
+  label: 手足三陽表裡引經主治例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d13
+    span:
+    - body
+    - 3356
+    - 3420
+  label: 諸藥瀉諸經之火邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d14
+    span:
+    - body
+    - 3420
+    - 3464
+  label: 諸藥相反例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d15
+    span:
+    - body
+    - 3464
+    - 3792
+  label: 五臟補瀉主治例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d16
+    span:
+    - body
+    - 3792
+    - 4288
+  label: 用藥凡例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d17
+    span:
+    - body
+    - 4288
+    - 8085
+  label: 諸品藥性主治指掌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d18
+    span:
+    - body
+    - 8085
+    - 8386
+  label: 用藥法象
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d19
+    span:
+    - body
+    - 8386
+    - 8517
+  label: 四時用藥法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d20
+    span:
+    - body
+    - 8517
+    - 8750
+  label: 用藥九散
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec015_jc_001-d2d21
+    span:
+    - body
+    - 8750
+    - 8811
+  label: 用藥身根梢法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 15770
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 2456
+  label: 玉石部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d3
+    span:
+    - body
+    - 2456
+    - 4224
+  label: 草部上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d4
+    span:
+    - body
+    - 4224
+    - 6371
+  label: 草部中
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d5
+    span:
+    - body
+    - 6371
+    - 8231
+  label: 草部下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d6
+    span:
+    - body
+    - 8231
+    - 11053
+  label: 木部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d7
+    span:
+    - body
+    - 11053
+    - 11522
+  label: 人部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d8
+    span:
+    - body
+    - 11522
+    - 12328
+  label: 禽獸部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d9
+    span:
+    - body
+    - 12328
+    - 13844
+  label: 蟲魚部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d10
+    span:
+    - body
+    - 13844
+    - 14532
+  label: 果品部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d11
+    span:
+    - body
+    - 14532
+    - 14936
+  label: 米穀部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec015_jc_003-d3d12
+    span:
+    - body
+    - 14936
+    - 15770
+  label: 菜蔬部
+  type: section
+  level: 2
+hash: sha256:18abbaf373eb53823a3abef6b4657129b8a96cbb8e7152e0857fcda9f6ddfe91
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
